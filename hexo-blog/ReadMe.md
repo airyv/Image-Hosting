@@ -1,0 +1,1 @@
+Pictures in hexo-blog.
