@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T12:28:29.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.8.6" etag="vf8bi8U5fF06JWsHWnSU" type="github"><diagram id="HSRqC48HRUZw4o-J_02V">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-20T12:31:09.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="WEtXg_oweXGNccdBch3n" version="14.8.6" type="github">
+  <diagram id="HSRqC48HRUZw4o-J_02V" name="第 1 页">
+    <mxGraphModel dx="1038" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FsPWj8rKAZYtJtDJOkqn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FsPWj8rKAZYtJtDJOkqn-2" value="Capacity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FsPWj8rKAZYtJtDJOkqn-3" value="FIFO队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FsPWj8rKAZYtJtDJOkqn-4" value="FIFO队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FsPWj8rKAZYtJtDJOkqn-5" value="FIFO队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FsPWj8rKAZYtJtDJOkqn-6" value="FIFO队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FsPWj8rKAZYtJtDJOkqn-7" value="队列为弹性队列&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="270" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FsPWj8rKAZYtJtDJOkqn-8" value="每个组织分配一个队列，队列可以执行各种应用。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
